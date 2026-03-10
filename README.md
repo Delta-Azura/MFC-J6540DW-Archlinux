@@ -7,3 +7,10 @@ First ensure your systemd is up to date and you have installed base-devel on you
 Then, clone the repo using git and change directory to the new directory you've downloaded. 
 
 Execute makepkg -sri, install the package and restart cups, your printer should be working from now.
+
+# Scan 
+It doesn't seem to work after the installation of the driver. 
+I downloaded the scan driver deb package and extracted it in the right directory. 
+I followed the instructions on the brother website after that and it worked. 
+
+Good luck
