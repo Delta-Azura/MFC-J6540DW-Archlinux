@@ -1,4 +1,4 @@
-# Maintainer: purpleleaf <max at ganoia dot eu>
+# Maintainer: Delta
 # Based on aur build of brother-mfc-4340dw
 #
 _model=mfcj6540dw
